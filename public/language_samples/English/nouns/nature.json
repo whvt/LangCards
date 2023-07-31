@@ -1,0 +1,16 @@
+{
+  "English-nature-nouns-cards": [
+    {
+      "id": 1,
+      "eng": "to be",
+      "han": "是",
+      "pin": "shì"
+  },
+  {
+      "id": 2,
+      "eng": "not",
+      "han": "不",
+      "pin": "bù"
+  }
+  ]
+}
